@@ -1,0 +1,10 @@
+notneeded/
+.venv/
+__pycache__/
+*.pyc
+.env
+nohup.out
+logs/
+dashboard_data/
+transfer_state.json
+pending_orders.json

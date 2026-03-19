@@ -7,7 +7,7 @@ requires-python = ">=3.10"
 dependencies = [
   "openpyxl>=3.1.5",
   "pandas>=2.3.3",
-  "pipecat-ai[cartesia,deepgram,google,openai,runner,sarvam,silero,websocket]>=0.0.97",
+  "pipecat-ai[google,sarvam,silero,websocket]>=0.0.110",
   "pipecatcloud>=0.2.4",
   "httpx>=0.27.0",
   "fastapi>=0.115.0",
